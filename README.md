@@ -1,2 +1,2 @@
-# Risc-V-mini
-Thia is my first github repository
+# Risc V mini
+This is my first github repository
