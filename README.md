@@ -10,7 +10,7 @@
 
 Task-
 
--Create Github repository<br>-install YOSIS<br>-install iverilog<br>-install gtkwave
+- Create Github repository<br>- install YOSIS<br>- install iverilog<br>- install gtkwave
 
 # Graywolf
 ![Screenshot from 2024-02-22 12-30-19](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/2e601ec6-695f-4fa8-9ada-6d2ba518f49d)
@@ -22,6 +22,8 @@ Task-
 # Second call was held on 20th FEB 
 # TASK-
 - Mark the input output ports along with input output waveforms for your project
+
+# Third call will be on 22nd FEB
 
 
 
