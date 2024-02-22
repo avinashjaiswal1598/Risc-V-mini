@@ -10,8 +10,8 @@
 
 ## Task-
 
-- Create Github repository- in
-- stall YOSIS
+- Create Github repository
+- install YOSIS
 - install iverilog
 - install gtkwave
 
