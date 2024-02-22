@@ -6,20 +6,24 @@
 ## This is my first github repository Intended to update weekly progress
 
 
-# The first meeting was held on 16 FEB 2024
+# The first meeting was held on 16th FEB 2024
 
-Task-
+## Task-
 
-- Create Github repository<br>- install YOSIS<br>- install iverilog<br>- install gtkwave
+- Create Github repository- in
+- stall YOSIS
+- install iverilog
+- install gtkwave
 
-# Graywolf
+## Graywolf
 ![Screenshot from 2024-02-22 12-30-19](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/2e601ec6-695f-4fa8-9ada-6d2ba518f49d)
 
-#YOSYS
+## YOSYS
 ![Screenshot from 2024-02-22 12-25-19](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f76091dc-f0a8-47b4-afed-9e21992825c1)
 
 
 # Second call was held on 20th FEB 
+
 # TASK-
 - Mark the input output ports along with input output waveforms for your project
 
