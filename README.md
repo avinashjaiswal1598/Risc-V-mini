@@ -26,7 +26,8 @@
 
 # TASK-
 - Mark the input output ports along with input output waveforms for your project
-My project for this interniship is -
+
+ My project for this interniship is-
 # Synchronous First In First Out for Memory Storage and Processing
 
 # Third call will be on 22nd FEB
