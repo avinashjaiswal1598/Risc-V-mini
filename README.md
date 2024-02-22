@@ -29,6 +29,13 @@
 
  My project for this interniship is-
 # Synchronous First In First Out for Memory Storage and Processing
+![Synchronous FIFO pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f2cc94e1-feac-4f9c-bbbe-b52f01479df5)
+
+
+input output Waveform 
+![Time diagram for Synchronous FIFO](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/63bb283d-c5e0-4d50-a72e-49231bda283b)
+
+
 
 # Third call will be on 22nd FEB
 
