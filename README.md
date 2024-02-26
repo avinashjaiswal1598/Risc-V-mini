@@ -22,8 +22,7 @@
 ![Screenshot from 2024-02-22 12-25-19](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f76091dc-f0a8-47b4-afed-9e21992825c1)
 
 
-# Second call was held on 20th FEB 
-
+# 2nd call was held on 20th FEB 
 # TASK-
 - Mark the input output ports along with input output waveforms for your project
 
@@ -33,11 +32,12 @@
 
 
 input output Waveform 
+![Screenshot from 2024-02-26 17-33-33](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/12013901-0785-4613-9dc6-0c0fb84bfc68)
 
 
-/home/avinash/Pictures/Screenshots/Screenshot from 2024-02-26 17-33-33.png
 
-# 3^rd call will be on 22nd FEB
+
+# 3rd call will be on 22nd FEB
 # Task
 - Analyse how to use iverilog and gtkwave
 - Perform the lab
