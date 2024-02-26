@@ -42,6 +42,7 @@ input output Waveform
 - Analyse how to use iverilog and gtkwave
 - Perform the lab
 - Analyse how does hardware behaves
+  
   I observe the MUX
   ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/1f3b04a6-ed05-40cf-ad84-2b3b40b78270)
 
