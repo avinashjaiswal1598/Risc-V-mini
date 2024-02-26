@@ -37,7 +37,7 @@ input output Waveform
 
 
 
-# 3rd call will be on 22nd FEB
+# 3rd call held on 22nd FEB
 # Task
 - Analyse how to use iverilog and gtkwave
 - Perform the lab
@@ -45,6 +45,8 @@ input output Waveform
   
   I observe the MUX
   ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/1f3b04a6-ed05-40cf-ad84-2b3b40b78270)
+
+  # 4th call will be on 27th FEB
 
 
 
