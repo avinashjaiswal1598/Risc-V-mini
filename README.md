@@ -33,11 +33,15 @@
 
 
 input output Waveform 
-![Time diagram for Synchronous FIFO](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/63bb283d-c5e0-4d50-a72e-49231bda283b)
 
 
+/home/avinash/Pictures/Screenshots/Screenshot from 2024-02-26 17-33-33.png
 
-# Third call will be on 22nd FEB
+# 3^rd call will be on 22nd FEB
+# Task
+- Analyse how to use iverilog and gtkwave
+- Perform the lab
+- Analyse how does hardware behaves
 
 
 
