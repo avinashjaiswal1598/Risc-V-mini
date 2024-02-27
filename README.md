@@ -39,9 +39,13 @@ input output Waveform
 
 # 3rd call held on 22nd FEB
 # Task
-- Analyse how to use iverilog and gtkwave
-- Perform the lab
+- Learn how to use iverilog and gtkwave
+- Perform the lab and update github repo
 - Analyse how does hardware behaves
+  Verilog Files contains all the design associated with testbench
+  ![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/036085aa-366b-482a-9fc7-a6658cb372f2)
+  Let us load the MUX into the simulator
+  iverilog good_mux.v tb_good_mux.v
   
   I observe the MUX
   ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/1f3b04a6-ed05-40cf-ad84-2b3b40b78270)
