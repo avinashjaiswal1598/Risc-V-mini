@@ -46,6 +46,7 @@ input output Waveform
   Verilog Files contains all the design associated with testbench
   ![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/036085aa-366b-482a-9fc7-a6658cb372f2)
   Let us load the MUX into the simulator
+  
   iverilog good_mux.v tb_good_mux.v
   
   I observe the MUX
