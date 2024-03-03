@@ -37,7 +37,7 @@ input output Waveform
 
 
 
-# 3rd call held on 22nd FEB
+# 3rd call was held on 22nd FEB
 # Task
 - Learn how to use iverilog and gtkwave
 - Perform the lab and update github repo
@@ -52,8 +52,26 @@ input output Waveform
   I observe the MUX
   ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/1f3b04a6-ed05-40cf-ad84-2b3b40b78270)
 
-  # 4th call will be on 27th FEB
+  # 4th call was held on 27th FEB
+  ## Task
+  - Using YOSYS create GLS design for MUX
+  - create waveform
+  - Both Functional Design waveform and GLS waveform should match
+
+ ---
+ 
+![Screenshot from 2024-03-02 11-16-12](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/61f7316d-8081-41bd-bcf3-ff9adf8b9d4e)
 
 
+![gvim](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d937ea84-7736-454b-8855-f58c34e8e166)
 
+### GLS Design Waveform
+
+![Screenshot from 2024-03-02 11-17-23](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/244f3ae5-3294-4e13-86f7-4834e3de7d08)
+
+### Functional Design Waveform
+
+![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/76a12cde-d6e8-4e99-80fe-9561a73e4ea6)
+
+## _Both Functional and GLS Design waveform match_
 
