@@ -74,4 +74,6 @@ input output Waveform
 ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/76a12cde-d6e8-4e99-80fe-9561a73e4ea6)
 
 ## _Both Functional and GLS Design waveform match_
+---
+
 
