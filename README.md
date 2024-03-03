@@ -63,7 +63,8 @@ input output Waveform
 ![Screenshot from 2024-03-02 11-16-12](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/61f7316d-8081-41bd-bcf3-ff9adf8b9d4e)
 
 
-![gvim](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d937ea84-7736-454b-8855-f58c34e8e166)
+![gvim](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/7a6a68b4-1020-4d32-8465-f63359ef9c63)
+
 
 ### GLS Design Waveform
 
@@ -71,9 +72,12 @@ input output Waveform
 
 ### Functional Design Waveform
 
-![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/76a12cde-d6e8-4e99-80fe-9561a73e4ea6)
 
-### _Both Functional and GLS Design waveform match_
+![GLS DEsign](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/a1a6e96f-42be-4e26-8621-a0bcbc227c51)
+
+
+### _Both Functional and GLS Design waveform match_!
+
 ---
 
 # 5th call was held on 29th FEB
