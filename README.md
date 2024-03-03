@@ -50,7 +50,8 @@ input output Waveform
   iverilog good_mux.v tb_good_mux.v
   
   I observe the MUX
-  ![Screenshot from 2024-02-26 19-25-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/1f3b04a6-ed05-40cf-ad84-2b3b40b78270)
+ 
+![Screenshot from 2024-02-26 17-33-33](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/ccdc1920-d62f-4838-bf4e-54906abd05d7)
 
   # 4th call was held on 27th FEB
   ## Task
@@ -61,6 +62,10 @@ input output Waveform
  ---
  
 ![Screenshot from 2024-03-02 11-16-12](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/61f7316d-8081-41bd-bcf3-ff9adf8b9d4e)
+
+
+![Screenshot from 2024-03-01 12-03-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/b47b511e-e841-4124-96bc-d61b2e5c10db)
+
 
 
 ![gvim](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/7a6a68b4-1020-4d32-8465-f63359ef9c63)
