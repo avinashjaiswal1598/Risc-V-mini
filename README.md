@@ -88,3 +88,13 @@ input output Waveform
 # 5th call was held on 29th FEB
 ## It was about discussion and doubt session call
 ### _Design files been shared _
+## Functional design for Synchronous FIFO
+
+![Screenshot from ![Screenshot from 2024-03-07 16-57-20](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/976b2291-eb5d-49cc-b438-9d097259bf68)
+2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d8e39823-9b99-452a-877e-3a3ae5036344)
+
+## GLS 
+
+![Screenshot from 2024-03-07 16-58-53](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/eee77db6-08a8-40fa-929a-25c66fefdb85)
+![Screenshot from 2024-03-07 16-56-30](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d4ff5ffe-f591-4da6-a31f-355badaf2291)
+
