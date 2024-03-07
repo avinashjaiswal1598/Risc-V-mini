@@ -91,7 +91,9 @@ input output Waveform
 ## Functional design for Synchronous FIFO
 
 ![Screenshot from ![Screenshot from 2024-03-07 16-57-20](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/976b2291-eb5d-49cc-b438-9d097259bf68)
-2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d8e39823-9b99-452a-877e-3a3ae5036344)
+
+![Screenshot from 2024-03-07 16-57-20](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/837ef4f2-3ce2-4fb2-b632-863400741653)
+
 
 ## GLS 
 
