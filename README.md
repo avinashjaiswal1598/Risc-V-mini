@@ -1,7 +1,7 @@
 
 # VSD Squadron RISC V mini Dev Board
+![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/c6435eca-4c0d-4913-a0b2-3874dcdf37ff)
 
-[Screenshot 2024-03-12 at 20-45-43 VSDSquadron Mini RISC-V development board - VSDSQMinidatasheet pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/83642b7e-7b4b-411e-9dd9-84d11c036e96)
 
 Board specifications
 
