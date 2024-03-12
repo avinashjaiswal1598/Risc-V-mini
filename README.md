@@ -7,9 +7,9 @@
 
 
 # The first meeting was held on 16th FEB 2024
-
-## Task-
-
+Description:Installing the opensorce EDA Tools
+ <details>
+  <summary> Task 1 </summary>
 - Create Github repository
 - install YOSIS
 - install iverilog
@@ -20,10 +20,15 @@
 
 ## YOSYS
 ![Screenshot from 2024-02-22 12-25-19](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f76091dc-f0a8-47b4-afed-9e21992825c1)
+</details>
+
+---
 
 
 # 2nd call was held on 20th FEB 
-# TASK-
+DEscription:Go inside your your project SFIFO
+ <details>
+  <summary> Task 2 </summary>
 - Mark the input output ports along with input output waveforms for your project
 
  My project for this interniship is-
@@ -33,12 +38,14 @@
 
 input output Waveform 
 ![Screenshot from 2024-02-26 17-33-33](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/12013901-0785-4613-9dc6-0c0fb84bfc68)
+</details>
 
-
-
+---
 
 # 3rd call was held on 22nd FEB
-# Task
+Description:Get familier with iverilog & gtkwave
+ <details>
+  <summary> Task 3 </summary>
 - Learn how to use iverilog and gtkwave
 - Perform the lab and update github repo
 - Analyse how does hardware behaves
@@ -52,9 +59,14 @@ input output Waveform
   I observe the MUX
  
 ![Screenshot from 2024-02-26 17-33-33](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/ccdc1920-d62f-4838-bf4e-54906abd05d7)
+</details>
+
+---
 
   # 4th call was held on 27th FEB
-  ## Task
+ Description: Get overview of YOSYS and create GLS
+ <details>
+  <summary> Task 4 </summary>
   - Using YOSYS create GLS design for MUX
   - create waveform
   - Both Functional Design waveform and GLS waveform should match
@@ -82,14 +94,15 @@ input output Waveform
 
 
 ### _Both Functional and GLS Design waveform match_!
+</details>
 
 ---
 
 # 5th Task was given on 1st March 2024
 Description: Simulate the wavefome with the given design code and netlist
-
 <details>
   <summary> Task 5 </summary>
+
 ## Functional design for Synchronous FIFO
 
 ![Screenshot from 2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f0b04a25-9662-48f8-8026-e99b4faae700)
@@ -103,6 +116,8 @@ Description: Simulate the wavefome with the given design code and netlist
 
 ![Screenshot from 2024-03-07 16-56-30](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d4ff5ffe-f591-4da6-a31f-355badaf2291)
 </details>
+
+---
 
 
 
