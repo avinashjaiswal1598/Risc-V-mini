@@ -60,7 +60,7 @@ Description:Get familier with iverilog & gtkwave
   ![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/036085aa-366b-482a-9fc7-a6658cb372f2)
   Let us load the MUX into the simulator
   
-  iverilog good_mux.v tb_good_mux.v
+  `iverilog good_mux.v tb_good_mux.v
   
   I observe the MUX
  
@@ -115,7 +115,7 @@ Cloning gitub repository
 
 https://github.com/Anmol-S314/iiitb_sfifo.git
 
-iverilog iiitb_sfifo.v iiitb_sfifo_tb.v
+```iverilog iiitb_sfifo.v iiitb_sfifo_tb.v
 
 gtkwave iiitb dump.vcd
 
