@@ -1,7 +1,10 @@
 
 # VSD Squadron RISC V mini Dev Board
+
 [Screenshot 2024-03-12 at 20-45-43 VSDSquadron Mini RISC-V development board - VSDSQMinidatasheet pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/83642b7e-7b4b-411e-9dd9-84d11c036e96)
+
 Board specifications
+
 ![Screenshot 2024-03-12 at 20-48-32 VSDSquadron Mini RISC-V development board - VSDSQMinidatasheet pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/58b11788-475a-493b-9ff9-f883b9e41a7c)
 
 
@@ -12,6 +15,7 @@ Progress Report
 Description:Installing the opensorce EDA Tools
  <details>
   <summary> Task 1 </summary>
+  
 - Create Github repository
 - install YOSIS
 - install iverilog
@@ -104,10 +108,15 @@ Description:Get familier with iverilog & gtkwave
 Description: Simulate the wavefome with the given design code and netlist
 <details>
   <summary> Task 5 </summary>
+ 
 ### Functional design for Synchronous FIFO
+ 
 Cloning gitub repository
+
 https://github.com/Anmol-S314/iiitb_sfifo.git
+
 iverilog iiitb_sfifo.v iiitb_sfifo_tb.v
+
 gtkwave iiitb dump.vcd
 
 
