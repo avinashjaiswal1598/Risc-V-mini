@@ -1,12 +1,14 @@
 
-# Risc V mini
+# VSD Squadron RISC V mini Dev Board
+[Screenshot 2024-03-12 at 20-45-43 VSDSquadron Mini RISC-V development board - VSDSQMinidatasheet pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/83642b7e-7b4b-411e-9dd9-84d11c036e96)
+Board specifications
+![Screenshot 2024-03-12 at 20-48-32 VSDSquadron Mini RISC-V development board - VSDSQMinidatasheet pdf](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/58b11788-475a-493b-9ff9-f883b9e41a7c)
 
-![vsd RISC V mini board](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/a337a837-a17e-4e93-b4a2-79b9323bd2ca)
 
-## This is my first github repository Intended to update weekly progress
+### This is my first github repository Intended to update weekly progress
+Progress Report
 
-
-# The first meeting was held on 16th FEB 2024
+# 1st meeting was held on 16th FEB 2024
 Description:Installing the opensorce EDA Tools
  <details>
   <summary> Task 1 </summary>
@@ -25,7 +27,7 @@ Description:Installing the opensorce EDA Tools
 ---
 
 
-# 2nd call was held on 20th FEB 
+# 2nd call was held on 20th FEB 2024
 DEscription:Go inside your your project SFIFO
  <details>
   <summary> Task 2 </summary>
@@ -42,7 +44,7 @@ input output Waveform
 
 ---
 
-# 3rd call was held on 22nd FEB
+# 3rd call was held on 22nd FEB 2024
 Description:Get familier with iverilog & gtkwave
  <details>
   <summary> Task 3 </summary>
@@ -63,7 +65,7 @@ Description:Get familier with iverilog & gtkwave
 
 ---
 
-  # 4th call was held on 27th FEB
+  # 4th call was held on 27th FEB 2024
  Description: Get overview of YOSYS and create GLS
  <details>
   <summary> Task 4 </summary>
@@ -102,8 +104,12 @@ Description:Get familier with iverilog & gtkwave
 Description: Simulate the wavefome with the given design code and netlist
 <details>
   <summary> Task 5 </summary>
+### Functional design for Synchronous FIFO
+Cloning gitub repository
+https://github.com/Anmol-S314/iiitb_sfifo.git
+iverilog iiitb_sfifo.v iiitb_sfifo_tb.v
+gtkwave iiitb dump.vcd
 
-## Functional design for Synchronous FIFO
 
 ![Screenshot from 2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f0b04a25-9662-48f8-8026-e99b4faae700)
 
