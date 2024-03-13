@@ -194,7 +194,7 @@ Synthesisd Netlist Waveform
 
 </details>
 
-[Go to Task 5](#Task5)
+[Task 5](#Task5)
 
 
 
