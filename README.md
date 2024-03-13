@@ -175,6 +175,7 @@ To open netlist
 To verify weather netlist match with the design 
 
 `iverilog ../iiitb_sfifo/verilog_model/primitives.v ../iiitb_sfifo/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_sfifo_tb.v`
+
 `./a.out`
 `gtkwave dump.vcd`
 
