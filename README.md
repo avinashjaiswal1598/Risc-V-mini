@@ -1,7 +1,7 @@
 
 # VSD Squadron RISC V mini Dev Board
-![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/c6435eca-4c0d-4913-a0b2-3874dcdf37ff)
 
+![image](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/c6435eca-4c0d-4913-a0b2-3874dcdf37ff)
 
 Board specifications
 
@@ -190,7 +190,13 @@ To verify weather netlist match with the design
 <div align="center">
 Synthesisd Netlist Waveform
 </div>
+## REFERENCES
 
+- https://tinyurl.com/2vb78ent
+
+- https://github.com/Anmol-S314/iiitb_sfifo.git
+
+- https://www.youtube.com/watch?v=Ez8F0nW6S-w&pp=ygUSR0lUSFVCIEJZIFNIUkFEREhB
 
 </details>
 
