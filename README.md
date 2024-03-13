@@ -162,6 +162,7 @@ To write netlist
 ![Screenshot from 2024-03-09 13-14-42](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/9fe4ffce-f839-4335-91bf-7a7e7b489a52)
 
 `flatten`
+
 `show`
 
 ![Screenshot from 2024-03-09 13-20-05](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/81111cf5-37d8-4b4c-919c-2541e2ec0837)
@@ -172,16 +173,23 @@ To open netlist
 
 ![Screenshot from 2024-03-09 13-21-16](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/789b10cb-9bfc-47b7-bc86-03adc9bf940c)
 
+Run GLS 
+
 To verify weather netlist match with the design 
 
 `iverilog ../iiitb_sfifo/verilog_model/primitives.v ../iiitb_sfifo/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_sfifo_tb.v`
 
 `./a.out`
+
 `gtkwave dump.vcd`
 
 ![Screenshot from 2024-03-13 17-07-12](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d1b340ca-2666-4c33-8151-d13a70e1b04c)
 
 ![Screenshot from 2024-03-09 13-30-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/b8be6fee-af4c-427c-943a-cc416dd2b15e)
+
+<div align="center">
+*Synthesisd Netlist Waveform*
+</div>
 
 
 ---
