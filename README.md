@@ -117,12 +117,15 @@ https://github.com/Anmol-S314/iiitb_sfifo.git
 
 `iverilog iiitb_sfifo.v iiitb_sfifo_tb.v`
 
-`gtkwave iiitb dump.vcd
+`gtkwave iiitb dump.vcd`
 
+![Screenshot from 2024-03-13 11-26-38](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/7e286c35-7ead-4556-8490-2e5d7a3e89c8)
 
-![Screenshot from 2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f0b04a25-9662-48f8-8026-e99b4faae700)
+![iverilog](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/9b1dc06c-33dd-46b6-bba4-6248a8c39ad7)
 
-![Screenshot from 2024-03-07 16-57-20](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/837ef4f2-3ce2-4fb2-b632-863400741653)
+Waveform
+
+[SFIFO functional design](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/ff255299-efec-450f-a105-7dfcad24702f)
 
 
 ## GLS 
