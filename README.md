@@ -193,8 +193,8 @@ Synthesisd Netlist Waveform
 
 ## REFERENCES
 
-- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwix46irp_GEAxW7XWwGHSxfDQIQFnoECBIQAQ&url=https%3A%2F%2Fwww.vlsisystemdesign.com%2Fvsdsquadron%2F&usg=AOvVaw24nF2y018TcGLVoEHNHSos&opi=89978449
-
+- https://www.vlsisystemdesign.com/vsdsquadron/
+ 
 - https://github.com/Anmol-S314/iiitb_sfifo.git
 
 - https://www.youtube.com/watch?v=Ez8F0nW6S-w&pp=ygUSR0lUSFVCIEJZIFNIUkFEREhB
