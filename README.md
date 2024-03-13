@@ -188,7 +188,7 @@ To verify weather netlist match with the design
 ![Screenshot from 2024-03-09 13-30-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/b8be6fee-af4c-427c-943a-cc416dd2b15e)
 
 <div align="center">
-*Synthesisd Netlist Waveform*
+Synthesisd Netlist Waveform
 </div>
 
 
