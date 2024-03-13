@@ -115,9 +115,9 @@ Cloning gitub repository
 
 https://github.com/Anmol-S314/iiitb_sfifo.git
 
-```iverilog iiitb_sfifo.v iiitb_sfifo_tb.v
+`iverilog iiitb_sfifo.v iiitb_sfifo_tb.v`
 
-gtkwave iiitb dump.vcd
+`gtkwave iiitb dump.vcd
 
 
 ![Screenshot from 2024-03-07 16-59-28](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/f0b04a25-9662-48f8-8026-e99b4faae700)
