@@ -12,7 +12,7 @@ Board specifications
 Progress Report
 
 # 1st meeting was held on 16th FEB 2024
-Description:Installing the opensorce EDA Tools
+Description: Installing the opensorce EDA Tools
  <details>
   <summary> Task 1 </summary>
   
@@ -32,7 +32,7 @@ Description:Installing the opensorce EDA Tools
 
 
 # 2nd call was held on 20th FEB 2024
-DEscription:Go inside your your project SFIFO
+DEscription: Go inside your your project SFIFO
  <details>
   <summary> Task 2 </summary>
 - Mark the input output ports along with input output waveforms for your project
@@ -49,7 +49,7 @@ input output Waveform
 ---
 
 # 3rd call was held on 22nd FEB 2024
-Description:Get familier with iverilog & gtkwave
+Description: Get familier with iverilog & gtkwave
  <details>
   <summary> Task 3 </summary>
 - Learn how to use iverilog and gtkwave
@@ -111,7 +111,7 @@ Description: Simulate the wavefome with the given design code and netlist
  
 ### Functional design for Synchronous FIFO
  
-Cloning gitub repository
+Cloning github repository
 
 https://github.com/Anmol-S314/iiitb_sfifo.git
 
@@ -123,17 +123,65 @@ https://github.com/Anmol-S314/iiitb_sfifo.git
 
 ![iverilog](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/9b1dc06c-33dd-46b6-bba4-6248a8c39ad7)
 
-Waveform
+Wavefom
 
-[SFIFO functional design](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/ff255299-efec-450f-a105-7dfcad24702f)
+![Screenshot from 2024-03-07 16-56-30](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/aee39763-f06a-4484-b6a9-de5b365bc0f9)
+
+Synthesis of Verilog code
+To generate netlist inside iiitb_sfifo
+
+`yosys`
+
+![Screenshot from 2024-03-09 11-56-38](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/06d5676b-8833-4f33-9a54-152881535a03)
+
+Reading the library
+Reading the design
+
+`read_verilog iiitb_sfifo.v`
+
+![Screenshot from 2024-03-09 12-35-45](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/bcbe23b1-367c-406d-9638-a3c7f0671585)
 
 
-## GLS 
+Synthesising the module
 
-![Screenshot from 2024-03-07 16-58-53](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/eee77db6-08a8-40fa-929a-25c66fefdb85)
+`synth -top iiitb_sfifo`
 
-![Screenshot from 2024-03-07 16-56-30](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d4ff5ffe-f591-4da6-a31f-355badaf2291)
-</details>
+![Screenshot from 2024-03-09 12-39-51](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d831f687-de58-4faa-8df1-adb68ebc0dd7)
+
+![Screenshot from 2024-03-09 12-40-42](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/9fb6650a-3601-467f-8f4e-8816d7a1e31f)
+
+To generate netlist 
+
+`abc -liberty`
+
+To write netlist
+
+`write_verilog netlist.v`
+`write_verilog -noattr netlist.v`
+
+![Screenshot from 2024-03-09 13-14-42](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/9fe4ffce-f839-4335-91bf-7a7e7b489a52)
+
+`flatten`
+`show`
+
+![Screenshot from 2024-03-09 13-20-05](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/81111cf5-37d8-4b4c-919c-2541e2ec0837)
+
+To open netlist
+
+`!gvim netlist.v`
+
+![Screenshot from 2024-03-09 13-21-16](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/789b10cb-9bfc-47b7-bc86-03adc9bf940c)
+
+To verify weather netlist match with the design 
+
+`iverilog ../iiitb_sfifo/verilog_model/primitives.v ../iiitb_sfifo/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_sfifo_tb.v`
+`./a.out`
+`gtkwave dump.vcd`
+
+![Screenshot from 2024-03-13 17-07-12](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/d1b340ca-2666-4c33-8151-d13a70e1b04c)
+
+![Screenshot from 2024-03-09 13-30-00](https://github.com/avinashjaiswal1598/Risc-V-mini/assets/160040323/b8be6fee-af4c-427c-943a-cc416dd2b15e)
+
 
 ---
 
