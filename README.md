@@ -106,7 +106,7 @@ Description: Get familier with iverilog & gtkwave
 
 # 5th Task was given on 1st March 2024
 Description: Simulate the wavefome with the given design code and netlist
-<details>
+<details id="Task5">
   <summary> Task 5 </summary>
  
 ### Functional design for Synchronous FIFO
@@ -190,6 +190,13 @@ To verify weather netlist match with the design
 <div align="center">
 Synthesisd Netlist Waveform
 </div>
+
+
+</details>
+
+[Go to Task 5](#Task5)
+
+
 
 
 ---
